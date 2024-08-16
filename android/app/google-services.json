@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50127502160",
+    "project_id": "traningappreactnative",
+    "storage_bucket": "traningappreactnative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50127502160:android:57b8d2a61875a12c4b0a55",
+        "android_client_info": {
+          "package_name": "com.traningapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIOh7b6Tanhe7MFIcpPtaeZ0qNCtwbEes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
